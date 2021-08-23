@@ -6,7 +6,7 @@ import Contact from './components/Contact'
 import Post from "./components/Post"
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <div className="App">
       <Navbar/>
       <Switch>
