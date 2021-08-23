@@ -1,0 +1,10 @@
+Img {
+    position: absolute;
+    top: 10px;
+    left: -167px;
+    padding-bottom: 22px;
+    opacity: 0.6;
+    height: 100%;
+    width: 20%;
+    z-index: -1;
+}
