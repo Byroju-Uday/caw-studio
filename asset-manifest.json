@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/caw-studio.git/static/css/main.aa407b1c.chunk.css",
+    "main.js": "/caw-studio.git/static/js/main.3b557fd5.chunk.js",
+    "main.js.map": "/caw-studio.git/static/js/main.3b557fd5.chunk.js.map",
+    "runtime-main.js": "/caw-studio.git/static/js/runtime-main.d4bf5987.js",
+    "runtime-main.js.map": "/caw-studio.git/static/js/runtime-main.d4bf5987.js.map",
+    "static/js/2.cf2cfd29.chunk.js": "/caw-studio.git/static/js/2.cf2cfd29.chunk.js",
+    "static/js/2.cf2cfd29.chunk.js.map": "/caw-studio.git/static/js/2.cf2cfd29.chunk.js.map",
+    "static/js/3.402da7ec.chunk.js": "/caw-studio.git/static/js/3.402da7ec.chunk.js",
+    "static/js/3.402da7ec.chunk.js.map": "/caw-studio.git/static/js/3.402da7ec.chunk.js.map",
+    "index.html": "/caw-studio.git/index.html",
+    "static/css/main.aa407b1c.chunk.css.map": "/caw-studio.git/static/css/main.aa407b1c.chunk.css.map",
+    "static/js/2.cf2cfd29.chunk.js.LICENSE.txt": "/caw-studio.git/static/js/2.cf2cfd29.chunk.js.LICENSE.txt",
+    "static/media/post.ea635523.png": "/caw-studio.git/static/media/post.ea635523.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4bf5987.js",
+    "static/js/2.cf2cfd29.chunk.js",
+    "static/css/main.aa407b1c.chunk.css",
+    "static/js/main.3b557fd5.chunk.js"
+  ]
+}
